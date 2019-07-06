@@ -10,16 +10,16 @@ Bienvenidos al Curso OCAJPSE8
 
 [Practica 1](https://www.dropbox.com/s/yn4v2312bb55jnc/EjerciciosUMC01.pdf?dl=0)
 
-[Evaluacion 1](https://github.com/afv9988/)
+[Evaluacion 1](https://es.surveymonkey.com/r/UpGradeOCA81ra01)
 
 ## UMC02 ##
 
 [Practica 2](https://www.dropbox.com/s/89zri5jtviznum8/EjerciciosUMC02.pdf?dl=0)
 
-[Evaluacion 2](https://github.com/afv9988/)
+[Evaluacion 2](https://es.surveymonkey.com/r/TA_OCA8JBB02)
 
 ## UMC03 ##
 
 [Practica 3](https://www.dropbox.com/s/j8v9kkhdci56bbv/EjerciciosUMC03.pdf?dl=0)
 
-[Evaluacion 3](https://github.com/afv9988/)
+[Evaluacion 3](https://es.surveymonkey.com/r/TA_OCA8JBB03)
