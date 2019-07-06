@@ -8,7 +8,9 @@ Bienvenidos al Curso OCAJPSE8
 
 ## UMC01 ##
 
-[Practica 1](https://www.dropbox.com/s/yn4v2312bb55jnc/EjerciciosUMC01.pdf?dl=0)
+[Practica 1.1](https://www.dropbox.com/sh/3jv0duburtgxd8z/AAASmJgq6raHrJIG_RriC29ha?dl=0)
+
+[Practica 1.2](https://www.dropbox.com/s/yn4v2312bb55jnc/EjerciciosUMC01.pdf?dl=0)
 
 [Evaluacion 1](https://es.surveymonkey.com/r/UpGradeOCA81ra01)
 
