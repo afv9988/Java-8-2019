@@ -22,6 +22,6 @@ Bienvenidos al Curso OCAJPSE8
 
 ## UMC03 ##
 
-<!--- [Practica 3](https://www.dropbox.com/s/j8v9kkhdci56bbv/EjerciciosUMC03.pdf?dl=0) --->
+[Practica 3](https://www.dropbox.com/s/j8v9kkhdci56bbv/EjerciciosUMC03.pdf?dl=0)
 
 [Evaluacion 3](https://es.surveymonkey.com/r/TA_OCA8JBB03)
