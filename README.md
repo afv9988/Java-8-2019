@@ -6,7 +6,7 @@ Bienvenidos al Curso OCAJPSE8
 
 [Documento practicas](https://www.dropbox.com/s/vqkr3c4h0ymt45u/Programmer%20I%20Associate%20-%20Activity%20Guide.pdf?dl=0)
 
-[Test 1](https://www.dropbox.com/s/r6ph2seu6xir0ee/Oracle%20Certified%20Associate%20Java%20SE%208%20Programmer%20I%20Study%20Guide%20Exam%201Z0-808-88-91.pdf?dl=0)
+[Test 2](https://www.dropbox.com/s/qrrtkc72vfvi9bz/Oracle%20Certified%20Associate%20Java%20SE%208%20Programmer%20I%20Study%20Guide%20Exam%201Z0-808-92-96.pdf?dl=0)
 
 ## UMC04 ##
 
