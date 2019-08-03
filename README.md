@@ -24,6 +24,8 @@ Bienvenidos al Curso OCAJPSE8
 
 ## UMC015 ##
 
-[Practica 15](https://www.dropbox.com/s/xaaiqvxcriwupxg/EjerciciosUMC15.docx?dl=0)
+[Practica 15.1](https://www.dropbox.com/s/xaaiqvxcriwupxg/EjerciciosUMC15.docx?dl=0)
+
+[Practica 15.2](https://www.dropbox.com/sh/nhbpemmtoymz43s/AABWaWUd9b5urlcGMQ2wDUYQa?dl=0)
 
 [Evaluacion 15](https://es.surveymonkey.com/r/TA_OCA8J5taClase03)
