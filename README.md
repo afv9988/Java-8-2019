@@ -25,6 +25,8 @@ Bienvenidos al Curso OCAJPSE8
 
 ## UMC025 ##
 
-[Practica 25](https://www.dropbox.com/s/d4ocu7gqpkclboy/EjerciciosUMC25.docx?dl=0)
+[Practica 25.1](https://www.dropbox.com/s/d4ocu7gqpkclboy/EjerciciosUMC25.docx?dl=0)
+
+[Practica 25.2](https://www.dropbox.com/sh/9md7hahb3de33ey/AABUOYLXXg1v2N1aydrLHSXqa?dl=0)
 
 [Evaluacion 25](https://es.surveymonkey.com/r/TA_OCA8J9naClase02)
