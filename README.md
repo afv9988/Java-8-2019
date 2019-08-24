@@ -18,7 +18,9 @@ Bienvenidos al Curso OCAJPSE8
 
 ## UMC024 ##
 
-[Practica 24](https://www.dropbox.com/s/srsm1ycvhnm1l02/EjerciciosUMC24.docx?dl=0)
+[Practica 24.1](https://www.dropbox.com/s/srsm1ycvhnm1l02/EjerciciosUMC24.docx?dl=0)
+
+[Practica 24.2](https://www.dropbox.com/sh/ylewblkx04erjdn/AABC14ZbbGYLOk5bPo1vRCmta?dl=0)
 
 [Evaluacion 24](https://es.surveymonkey.com/r/TA_OCA8J9naClase01)
 
