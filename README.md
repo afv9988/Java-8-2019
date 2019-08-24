@@ -6,22 +6,27 @@ Bienvenidos al Curso OCAJPSE8
 
 [Documento practicas](https://www.dropbox.com/s/vqkr3c4h0ymt45u/Programmer%20I%20Associate%20-%20Activity%20Guide.pdf?dl=0)
 
-[Test 6](https://www.dropbox.com/s/b06yub3nnd45w9u/oracle%20certified%20associate%20java%20se%208%20programmer%20i%20study%20guide%20exam%201z0-808-264-277.pdf?dl=0)
+## UMC022 ##
 
-## UMC019 ##
+[Practica 22](https://www.dropbox.com/s/m9pm5snvzk99olg/EjerciciosUMC19.docx?dl=0)
 
-[Practica 19](https://www.dropbox.com/s/m9pm5snvzk99olg/EjerciciosUMC19.docx?dl=0)
+[Evaluacion 22](https://es.surveymonkey.com/r/TA_OCA8J8vaClase01)
 
-[Evaluacion 19](https://es.surveymonkey.com/r/TA_OCA8J7maClase01)
+## UMC023 ##
 
-## UMC020 ##
+[Practica 23](https://www.dropbox.com/s/zda5nsdgx71uyeb/EjerciciosUMC23.docx?dl=0)
 
-[Practica 20](https://www.dropbox.com/s/am64wc3jualjjer/EjerciciosUMC20.docx?dl=0)
+[Evaluacion 23](https://es.surveymonkey.com/r/TA_OCA8J8vaClase02)
 
-[Evaluacion 20](https://es.surveymonkey.com/r/TA_OCA8J7maClase02)
+## UMC024 ##
 
-## UMC021 ##
+[Practica 24](https://www.dropbox.com/s/srsm1ycvhnm1l02/EjerciciosUMC24.docx?dl=0)
 
-[Practica 21](https://www.dropbox.com/s/g3erxmtnim8cd3q/EjerciciosUMC21.docx?dl=0)
+[Evaluacion 24](https://es.surveymonkey.com/r/TA_OCA8J9naClase01)
 
-[Evaluacion 21](https://es.surveymonkey.com/r/TA_OCA8J7maClase03)
+
+## UMC025 ##
+
+[Practica 25](https://www.dropbox.com/s/d4ocu7gqpkclboy/EjerciciosUMC25.docx?dl=0)
+
+[Evaluacion 25](https://es.surveymonkey.com/r/TA_OCA8J9naClase02)
