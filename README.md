@@ -8,8 +8,6 @@ Bienvenidos al Curso OCAJPSE8
 
 ## UMC022 ##
 
-[Practica 22](https://www.dropbox.com/s/m9pm5snvzk99olg/EjerciciosUMC19.docx?dl=0)
-
 [Evaluacion 22](https://es.surveymonkey.com/r/TA_OCA8J8vaClase01)
 
 ## UMC023 ##
