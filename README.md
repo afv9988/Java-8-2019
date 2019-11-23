@@ -2,7 +2,7 @@
 
 Bienvenidos al Curso OCAJPSE8
 
-[Grupo Whatsapp](https://chat.whatsapp.com/GdPIJH5tOncBbxGx8Oe62O)
+[Grupo Whatsapp]()
 
 [Documento practicas](https://www.dropbox.com/s/vqkr3c4h0ymt45u/Programmer%20I%20Associate%20-%20Activity%20Guide.pdf?dl=0)
 
