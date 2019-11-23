@@ -24,6 +24,8 @@ Bienvenidos al Curso OCAJPSE8
 
 [Practica 2](https://www.dropbox.com/s/89zri5jtviznum8/EjerciciosUMC02.pdf?dl=0)
 
+[Preguntas Simulador 2](https://www.dropbox.com/s/ivp1rx3umogg3en/PreguntasSimulador_UMC2.docx?dl=0)
+
 [Evaluacion 2](https://es.surveymonkey.com/r/TA_OCA8JBB02)
 
 ## UMC03 ##
