@@ -10,7 +10,7 @@ Bienvenidos al Curso OCAJPSE8
 
 [Documento Practicas](https://www.dropbox.com/s/vqkr3c4h0ymt45u/Programmer%20I%20Associate%20-%20Activity%20Guide.pdf?dl=0)
 
-[Practicas Anteriores](https://www.dropbox.com/s/uxkmu9jhegqn3x2/EjerciciosUMC13.docx?dl=0)
+[Practicas Anteriores](https://www.dropbox.com/sh/b10fzu6nqinkh9p/AABE-almozk9P6dy27WufK4sa?dl=0)
 
 ## UMC013 ##
 
