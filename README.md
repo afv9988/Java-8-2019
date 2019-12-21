@@ -12,9 +12,7 @@ Bienvenidos al Curso OCAJPSE8
 
 ## UMC013 ##
 
-[Practica 13.1](https://www.dropbox.com/s/hmi9892ebieos31/EjerciciosUMC12.docx?dl=0)
-
-[Practica 13.2](https://www.dropbox.com/s/uxkmu9jhegqn3x2/EjerciciosUMC13.docx?dl=0)
+[Practica 13](https://www.dropbox.com/s/uxkmu9jhegqn3x2/EjerciciosUMC13.docx?dl=0)
 
 [Evaluacion 13](https://es.surveymonkey.com/r/TA_OCA8J5taClase01)
 
