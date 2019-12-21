@@ -8,7 +8,9 @@ Bienvenidos al Curso OCAJPSE8
 
 [Recursos de One Drive](https://1drv.ms/u/s!Ari9HGtlTZzTpKhhe_SqaCbNyA_XFA?e=CbGNRq)
 
-[Documento practicas](https://www.dropbox.com/s/vqkr3c4h0ymt45u/Programmer%20I%20Associate%20-%20Activity%20Guide.pdf?dl=0)
+[Documento Practicas](https://www.dropbox.com/s/vqkr3c4h0ymt45u/Programmer%20I%20Associate%20-%20Activity%20Guide.pdf?dl=0)
+
+[Practicas Anteriores](https://www.dropbox.com/s/uxkmu9jhegqn3x2/EjerciciosUMC13.docx?dl=0)
 
 ## UMC013 ##
 
