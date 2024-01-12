@@ -8,8 +8,8 @@ Java SE 17: Programming Complete
 
 Certification Exams Java SE 17 Developer
 Exam Number: 1Z0-829
-[link](https://education.oracle.com/cat%C3%A1logo-de-productos-ouexam-pexam_1z0-829/pexam_1Z0-829
-[link])(https://medium.com/wearewaes/all-you-need-to-know-on-how-to-become-an-ocp-java-se-17-developer-918d3ebd60d2)
+[link](https://education.oracle.com/cat%C3%A1logo-de-productos-ouexam-pexam_1z0-829/pexam_1Z0-829)
+[link](https://medium.com/wearewaes/all-you-need-to-know-on-how-to-become-an-ocp-java-se-17-developer-918d3ebd60d2)
 
 NetBeans
 [link](https://netbeans.apache.org/front/main/download/archive/)
