@@ -1,11 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
-
 package com.develop.java17course2024;
 
+import com.example.domain.Director;
 import com.example.domain.Employee;
+import com.example.domain.Manager;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  *
@@ -13,8 +12,19 @@ import com.example.domain.Employee;
  */
 public class Java17Course2024 {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+    public static void main(String... args) {
+        
+        ArrayList<Employee> staf = new ArrayList<>();
+        Manager man = new Manager("RH", 565, "Angel Floress", "65468456534", 3025);
+        Employee emp = new Employee(565, "Angel Floress", "65468456534", 3025);
+        
+        man.addEMployee(staf, emp);
+        System.out.println("Employees " + staf.toString());
+        man.removeEmployee(staf, emp);
+        System.out.println("Employees " + staf.toString());
+        
+        
+        
         
     }
 }
