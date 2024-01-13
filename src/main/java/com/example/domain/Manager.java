@@ -9,11 +9,14 @@ import java.util.ArrayList;
 public class Manager extends Employee {
     
     private String deptName;
+    private String name = "otro nombre";
 
     public Manager(String deptName, int empId, String name, String ssn, double salary) {
         super(empId, name, ssn, salary);
         this.deptName = deptName;
     }
+    
+    
 
     public String getDeptName() {
         return deptName;
@@ -46,5 +49,9 @@ public class Manager extends Employee {
 
     public void removeEmployee(ArrayList employes, Employee emp){
         employes.remove(emp);
+    }
+    
+    public String getDetails(){
+        return super.getDetails() + " Employee dept " + getDeptName();
     }
 }

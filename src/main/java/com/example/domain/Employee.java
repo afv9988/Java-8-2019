@@ -35,7 +35,9 @@ public class Employee {
     }
     
 
-    
+    public String getDetails(){
+        return "Employee id " + getEmpId() + " Employee name " + getName();
+    }
     
 
 
