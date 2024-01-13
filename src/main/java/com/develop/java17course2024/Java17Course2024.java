@@ -5,6 +5,8 @@
 
 package com.develop.java17course2024;
 
+import com.example.domain.Employee;
+
 /**
  *
  * @author AF
@@ -13,5 +15,6 @@ public class Java17Course2024 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        
     }
 }
