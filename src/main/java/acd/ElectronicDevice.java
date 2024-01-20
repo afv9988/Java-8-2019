@@ -1,11 +1,14 @@
 package acd;
 
-public abstract class ElectronicDevice {
+public interface ElectronicDevice {
+    static final int JAVA_VAL = 9;
+    int variable = 9;
     
-    public void turnOn(){
-        System.out.println("sdfsdfsdf");
+    public abstract void turnOn();
+    
+    public default void turnOff(){
+        
+        System.out.println("turn of " + variable);
     };
-    
-    public abstract void turnOff();
     
 }

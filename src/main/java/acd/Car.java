@@ -9,17 +9,23 @@ package acd;
  * @author AF
  */
 public class Car {
-    private boolean running = false;
-    private Engine engine = new Engine();
+    private static boolean running = false;
+    private static final Engine engine = new Engine();
     
+    private static class Engine {
     
-    private class Engine {
-        public void start() {
+        private Engine(){}
+        
+        private static Engine getInstance(){
+            return engine;
+        }
+
+        private void start() {
             running = true;
         }
     }
     
     public void start(){
-        engine.start();
+        Engine.getInstance().start();
     }
 }

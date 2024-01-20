@@ -1,15 +1,15 @@
 package acd;
 
-import com.sun.source.doctree.SerialDataTree;
-import java.io.Serial;
 import java.io.Serializable;
 
-public class Television extends ElectronicDevice {
+public class Television implements ElectronicDevice, Serializable {
 
+    @Override
     public void turnOn() {
         changeChannel(1);
         initializeScreen();
     }
+    @Override
     public void turnOff() {
         System.out.println("Turned off");
     }

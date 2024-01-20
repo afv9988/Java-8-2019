@@ -9,7 +9,6 @@ package acd;
  * @author AF
  */
 public class Computer {
-    private PowerState state;
     public void setState(PowerState powerState) {
         System.out.println("powerState" + powerState.getDescription());
     }

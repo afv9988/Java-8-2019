@@ -8,6 +8,7 @@ import acd.PowerState;
 import acd.SingletonClass;
 import acd.StaticCounter;
 import static acd.StaticErrorClass.*;
+import java.io.Serializable;
 import static java.lang.Math.random;
 
 /**
@@ -18,14 +19,10 @@ import static java.lang.Math.random;
 public class Java17Course2024 {
 
     public static void main(String... args) {
-        Computer com = new Computer();
-        com.setState(PowerState.SUSPEND);
+        Television ed = new Television();
+        System.out.println(ElectronicDevice.variable);
+        ed.turnOff();
         
-        //SingletonClass sc = new SingletonClass();
-        SingletonClass.getInstance();
-        
-        Car car = new Car();
-        car.start();
-        
+                
     }
 }
