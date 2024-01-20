@@ -1,15 +1,10 @@
 package com.develop.java17course2024;
 
-import acd.Car;
-import acd.Computer;
 import acd.Television;
 import acd.ElectronicDevice;
-import acd.PowerState;
-import acd.SingletonClass;
-import acd.StaticCounter;
-import static acd.StaticErrorClass.*;
-import java.io.Serializable;
-import static java.lang.Math.random;
+import acd.Employee;
+import acd.EmployeeDAO;
+import acd.EmployeeDAOFactory;
 
 /**
  *
@@ -23,6 +18,10 @@ public class Java17Course2024 {
         System.out.println(ElectronicDevice.variable);
         ed.turnOff();
         
+        EmployeeDAOFactory factory = new EmployeeDAOFactory();
+        EmployeeDAO employe = factory.createEmployeeDAOMySQL();
+        
+        employe.add(new Employee());
                 
     }
 }
