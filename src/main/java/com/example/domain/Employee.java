@@ -2,6 +2,7 @@ package com.example.domain;
 
 public class Employee {
 
+    
     private int empId;
     private String name;
     private String ssn;
@@ -39,6 +40,18 @@ public class Employee {
         return "Employee id " + getEmpId() + " Employee name " + getName();
     }
     
+    
 
+    @Override
+    public boolean equals(Object obj) {
+        if(obj instanceof Employee){
+            Employee e = (Employee) obj;
+            return e.empId  == this.empId 
+                    && e.name.equals(this.name);
+        }
+        return false;
+    }
+    
+    
 
 }
