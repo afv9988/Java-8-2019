@@ -17,6 +17,11 @@ public class StaticCounter {
     public static int getCount(){
         return counter;
     }
+
+    public static void setCounter(int counter) {
+        StaticCounter.counter = counter;
+    }
+    
     
     
 }
