@@ -1,30 +1,8 @@
 package com.develop.java17course2024;
 
-import acd.Television;
-import acd.ElectronicDevice;
-import acd.Employee;
-import acd.EmployeeDAO;
-import acd.EmployeeDAOFactory;
-import generics.CacheAny;
-import generics.CacheShirt;
-import generics.CacheString;
-import generics.ComparableStudent;
-import generics.Shirt;
-import generics.Student;
-import generics.StudentSortGpa;
-import generics.StudentSortName;
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.Deque;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.TreeMap;
-import java.util.TreeSet;
+import java.io.FileInputStream;
+import java.io.PrintWriter;
+import java.util.Properties;
 
 /**
  *
@@ -35,37 +13,28 @@ public class Java17Course2024 {
 
     public static void main(String... args) {
         
-        //Comparable
-        /*Set<ComparableStudent> studentList = new TreeSet<>();
-        
-        studentList.add(new ComparableStudent("Thomas Jefferson", 1111, 3.8));
-        studentList.add(new ComparableStudent("John Adams", 2222, 3.9));
-        studentList.add(new ComparableStudent("George Washington", 3333, 3.4));
-        
-        for(ComparableStudent student:studentList){
-            System.out.println(student);
-        }*/
-        
-        //Comparator
-        List<Student> studentList = new ArrayList<>(3);
-        Comparator<Student> sortName = new StudentSortName();
-        Comparator<Student> sortGpa = new StudentSortGpa();
-        
-        studentList.add(new Student("Thomas Jefferson", 1111, 3.8));
-        studentList.add(new Student("John Adams", 2222, 3.9));
-        studentList.add(new Student("George Washington", 3333, 3.4));
-        
-        System.out.println("-----------------By Name");
-        Collections.sort(studentList, sortName);
-        for (Student student : studentList) {
-            System.out.println(student);
-        }
-        System.out.println("-----------------By GPA");
-        Collections.sort(studentList, sortGpa);
-        for (Student student : studentList) {
-            System.out.println(student);
+        //Properties
+        /*Properties myProps = new Properties();
+        try {
+            FileInputStream fis = new FileInputStream("src\\main\\java\\generics\\ServerInfo.properties");
+            myProps.load(fis);
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
         }
         
+        System.out.println(myProps.get("userName"));
+        System.out.println(myProps.get("hostName"));
+        System.out.println(myProps.get("password"));*/
+        
+        //Print Formats
+        PrintWriter pw = new PrintWriter(System.out, true);
+        double price = 24.9900; int quantity = 120; String color = "Blue";
+        
+        System.out.printf("We have %03d %s Polo shirts that cost $%3.1f.\n", quantity, color, price);
+        System.out.format("We have %04d %s Polo shirts that cost $%3.2f.\n", quantity, color, price);
+        String out = String.format("We have %05d %s Polo shirts that cost $%3.5f.\n", quantity, color, price);
+        System.out.println(out);
+        pw.printf("We have %03d %s Polo shirts that cost $%3.2f.\n", quantity, color, price);
                 
     }
 }
