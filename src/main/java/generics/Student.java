@@ -11,6 +11,7 @@ public class Student {
     public String getName(){ return this.name; }
     public long getId(){ return this.id; }
     public double getGpa(){ return this.gpa; }
+    
     @Override public String toString(){
         return "Name: " + this.name + "  ID: " + this.id 
                 + "  GPA:" + this.gpa;    
