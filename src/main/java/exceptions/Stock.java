@@ -39,6 +39,7 @@ public class Stock implements Serializable {
     // Normally the current stock price would be fetched via a feed
     // Here we will simulate that
     private void setStockPrice() {
+        System.out.println("Calculing");
         Random r = new Random();
         double rVal = r.nextDouble();
         double p = 0;

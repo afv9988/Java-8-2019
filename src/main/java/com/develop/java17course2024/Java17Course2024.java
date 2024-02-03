@@ -1,5 +1,15 @@
 package com.develop.java17course2024;
 
+import exceptions.Portfolio;
+import exceptions.PortfolioException;
+import exceptions.Stock;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+
 
 /**
  *
@@ -8,7 +18,7 @@ package com.develop.java17course2024;
 
 public class Java17Course2024 {
 
-    public static void main(String... args) {
+    public static void main(String... args) throws PortfolioException {
         //Byte Stream
         /*byte[] b = new byte[128];
         int bLen = b.length;
@@ -67,9 +77,25 @@ public class Java17Course2024 {
         }*/
         
         //Serializacion
-        
-        
-        
+        Stock s1 = new Stock("ORCL", 100, 32.50);
+        Stock s2 = new Stock("APPL", 100, 245);
+        Stock s3 = new Stock("GOGL", 100, 54.67);
+        Portfolio p = new Portfolio(s1, s2, s3);
+        try (FileOutputStream fos = new FileOutputStream(args[0]);
+                ObjectOutputStream out = new ObjectOutputStream(fos)){
+            out.writeObject(p);
+        } catch (IOException e) {
+            System.out.println("Exception writing out Portfolio: " + e);
+        }
+        System.out.println("Serializated");
+        try (FileInputStream fis = new FileInputStream(args[0]);
+                ObjectInputStream in = new ObjectInputStream(fis)){
+            Portfolio newP = (Portfolio) in.readObject();
+            System.out.println(newP.toString());
+            
+        } catch (ClassNotFoundException | IOException e) {
+            System.out.println("Exception reading in Portfolio: " + e);
+        }
                 
     }
 }
