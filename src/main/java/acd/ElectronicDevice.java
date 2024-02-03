@@ -1,6 +1,6 @@
 package acd;
 
-public sealed interface ElectronicDevice permits Television {
+public interface ElectronicDevice {
     static final int JAVA_VAL = 9;
     int variable = 9;
     
